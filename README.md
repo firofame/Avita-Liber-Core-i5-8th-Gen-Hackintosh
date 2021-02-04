@@ -19,6 +19,7 @@ https://www.flipkart.com/avita-liber-core-i5-8th-gen-8-gb-256-gb-ssd-windows-10-
 - Webcam
 - Bluetooth
 
-# WiFi not working
+# What's not working
 
-Using TP-Link USB WiFi Dongle - https://www.amazon.in/gp/product/B00416Q5KI/
+- Wifi - Using TP-Link USB WiFi Dongle - https://www.amazon.in/gp/product/B00416Q5KI/
+- Fingerprint reader
