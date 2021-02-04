@@ -1,4 +1,4 @@
-# Avita-Liber-Core-i5-8th-Gen-Hackintosh
+## Avita Liber Core i5 8th Gen Hackintosh
 
 Running macOS Catalina 10.15.7
 
