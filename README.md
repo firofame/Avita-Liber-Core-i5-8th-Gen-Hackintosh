@@ -8,7 +8,7 @@ https://www.flipkart.com/avita-liber-core-i5-8th-gen-8-gb-256-gb-ssd-windows-10-
 # What Works
 
 - Speakers
-- Headphones output
+- Headphone/Microphone Port
 - Trackpad with gestures
 - USB 3 Ports
 - USB-C
