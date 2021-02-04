@@ -3,7 +3,7 @@
 Running MacOS Catalina
 
 # Specs
-https://avita-india.com/product/liber/spec
+https://www.flipkart.com/avita-liber-core-i5-8th-gen-8-gb-256-gb-ssd-windows-10-home-ns14a2in206p-thin-light-laptop/p/itmfg9zvdehyvh7e
 
 # What Works
 
@@ -19,6 +19,6 @@ https://avita-india.com/product/liber/spec
 -Webcam
 -Bluetooth
 
-#WiFi not working
+# WiFi not working
 
-Using TP-Link USB dongle
+Using TP-Link USB WiFi Dongle - https://www.amazon.in/gp/product/B00416Q5KI/
