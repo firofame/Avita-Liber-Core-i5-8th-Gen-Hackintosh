@@ -1,6 +1,6 @@
 # Avita-Liber-Core-i5-8th-Gen-Hackintosh
 
-Running MacOS Catalina
+Running macOS Catalina 10.15.7
 
 # Specs
 https://www.flipkart.com/avita-liber-core-i5-8th-gen-8-gb-256-gb-ssd-windows-10-home-ns14a2in206p-thin-light-laptop/p/itmfg9zvdehyvh7e
