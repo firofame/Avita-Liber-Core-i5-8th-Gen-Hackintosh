@@ -7,17 +7,17 @@ https://www.flipkart.com/avita-liber-core-i5-8th-gen-8-gb-256-gb-ssd-windows-10-
 
 # What Works
 
--Speakers
--Headphones output
--Trackpad with gestures
--USB 3 Ports
--USB-C
--Fn keys
--Battery percentage/status
--Sleep/Wake-up
--Mini HDMI Out
--Webcam
--Bluetooth
+- Speakers
+- Headphones output
+- Trackpad with gestures
+- USB 3 Ports
+- USB-C
+- Fn keys
+- Battery percentage/status
+- Sleep/Wake-up
+- Mini HDMI Out
+- Webcam
+- Bluetooth
 
 # WiFi not working
 
