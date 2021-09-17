@@ -1,6 +1,6 @@
 ## Avita Liber Core i5 8th Gen Hackintosh
 
-Running macOS Catalina 10.15.7
+Running macOS Big Sur 11.2.3
 
 ## Specs
 https://www.flipkart.com/avita-liber-core-i5-8th-gen-8-gb-256-gb-ssd-windows-10-home-ns14a2in206p-thin-light-laptop/p/itmfg9zvdehyvh7e
@@ -18,8 +18,8 @@ https://www.flipkart.com/avita-liber-core-i5-8th-gen-8-gb-256-gb-ssd-windows-10-
 - Mini HDMI Out
 - Webcam
 - Bluetooth
+- Wifi
 
 ## What's not working
 
-- Wifi - Using TP-Link USB WiFi Dongle - https://www.amazon.in/gp/product/B00416Q5KI/
 - Fingerprint reader
